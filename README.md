@@ -25,8 +25,9 @@ Tenho experiência com Java, Python e bancos de dados, e estou sempre buscando e
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianorviana75&show_icons=true&theme=dark)
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianorviana75)
 ---
 
 ## 🔥 Projetos em destaque
